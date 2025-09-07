@@ -384,34 +384,6 @@
         }
       ],
       "description": "Parasaurolophus is known for its long crest, which may have been used for sound communication."
-    },
-    {
-      "id": 12,
-      "publisher": "wikipedia",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Pachycephalosaurus_head_butting.png/500px-Pachycephalosaurus_head_butting.png",
-      "title": "Pachycephalosaurus",
-      "period": "Late Cretaceous",
-      "social_behavior": "Possibly small groups",
-      "characteristics": [
-        {
-          "feature": "length",
-          "value": "4.5m"
-        },
-        {
-          "feature": "height",
-          "value": "1.5m"
-        },
-        {
-          "feature": "skin_type",
-          "value": "Scaly"
-        },
-        {
-          "feature": "weight",
-          "value": "450kg"
-        },
-        {
-          "feature": "reproduction",
-          "value": "Egg laying"
-        }
+    }
   ]
 }
